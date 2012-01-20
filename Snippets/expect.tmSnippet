@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect( ${1} ).to${2}</string>
+	<string>expect( ${1} ).${2:to}</string>
 	<key>name</key>
 	<string>expect</string>
 	<key>scope</key>

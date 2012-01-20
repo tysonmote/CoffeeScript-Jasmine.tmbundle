@@ -8,6 +8,37 @@
 	<string>Tyson Tate</string>
 	<key>description</key>
 	<string>Jasmine completions for CoffeeScript.</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>388A0521-087E-4545-9F5A-D286971EA0F3</string>
+			<string>E292CC42-2449-402F-ACE2-C551FC8724CC</string>
+			<string>91658E3D-899B-4D3C-A0D5-36BBDCBF227D</string>
+			<string>F3D49D2D-4359-4BD0-8186-80DAB39FF56B</string>
+			<string>AD8AAB4E-4557-4E6D-B022-9A1D0E25FB19</string>
+			<string>F9317747-5BBB-4689-A0D1-A0F004BA693B</string>
+			<string>90D6D184-F7BA-4D98-B505-EC1063C2DD7C</string>
+			<string>251431BD-B9D4-46A1-A44C-DA00D44451E6</string>
+			<string>2F143D22-7758-4BF4-9B99-505FA3D46E7B</string>
+			<string>B53FB54F-4711-46EB-AA81-65FD7DFDAC17</string>
+			<string>E31F9C0B-49B1-424F-9CA1-3452BA7B2A38</string>
+			<string>E8373C0E-95DE-4739-AF24-5D5C85203CF7</string>
+			<string>5133F99E-F967-4EFA-A8D2-E845D60E8666</string>
+			<string>20D42702-9A16-45A7-B8CF-3DE62BB76531</string>
+			<string>0598CC8F-E39E-4B59-9B3A-52C5CA7B01D3</string>
+			<string>B93AADB7-D5F4-4C41-91B0-0D888C9CA7EB</string>
+			<string>DE53BA7D-BE7B-4B99-BA3B-8247A6864F66</string>
+			<string>10548B8F-A26A-4679-A91D-97EE736B6F37</string>
+			<string>A6FD0E07-7338-4E62-B695-2DF5E35B1E21</string>
+			<string>F014CEC1-F03A-4B1C-B237-2910843444D7</string>
+			<string>3CD0E86D-23A6-403A-A24C-9EC6E7068F55</string>
+			<string>9ADF6DAD-3F40-45BD-BBF8-49CFD431201B</string>
+			<string>03720188-22E2-435B-92C1-CCFA1B237D26</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
 	<key>name</key>
 	<string>CoffeeScript Jasmine</string>
 	<key>uuid</key>
