@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>toThrow( ${1:exception} )</string>
+	<string>toThrow ${1:exception}</string>
 	<key>name</key>
 	<string>toThrow</string>
 	<key>scope</key>

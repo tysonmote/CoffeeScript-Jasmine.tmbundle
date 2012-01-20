@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>toBe( ${1} )</string>
+	<string>toBe ${1}</string>
 	<key>name</key>
 	<string>toBe</string>
 	<key>scope</key>

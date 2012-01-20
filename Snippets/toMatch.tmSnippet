@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>toMatch( /${1}/ )</string>
+	<string>toMatch /${1}/</string>
 	<key>name</key>
 	<string>toMatch</string>
 	<key>scope</key>

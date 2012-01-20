@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>toBeLessThan( ${1} )</string>
+	<string>toBeLessThan ${1}</string>
 	<key>name</key>
 	<string>toBeLessThan</string>
 	<key>scope</key>

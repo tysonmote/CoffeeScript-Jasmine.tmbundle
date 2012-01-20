@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>toEqual( ${1} )</string>
+	<string>toEqual ${1}</string>
 	<key>name</key>
 	<string>toEqual</string>
 	<key>scope</key>

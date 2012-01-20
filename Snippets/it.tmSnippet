@@ -3,9 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>it( "${1}", -&gt;
-  ${2}
-)${3}</string>
+	<string>it "${1}", -&gt;
+  ${2}</string>
 	<key>name</key>
 	<string>it</string>
 	<key>scope</key>

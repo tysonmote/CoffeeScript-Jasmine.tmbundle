@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>andCallFake( ${1:function} )</string>
+	<string>andCallFake ${1:function}</string>
 	<key>name</key>
 	<string>andCallFake</string>
 	<key>scope</key>

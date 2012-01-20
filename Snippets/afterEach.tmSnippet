@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>afterEach( -&gt;
+	<string>afterEach -&gt;
   ${1}
-)</string>
+</string>
 	<key>name</key>
 	<string>afterEach</string>
 	<key>scope</key>
