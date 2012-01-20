@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>glfba@glfbagngr.pbz</string>
+	<key>contactName</key>
+	<string>Tyson Tate</string>
+	<key>description</key>
+	<string>Jasmine completions for CoffeeScript.</string>
+	<key>name</key>
+	<string>CoffeeScript Jasmine</string>
+	<key>uuid</key>
+	<string>47DC9E0F-3BC9-45FF-840C-E86CD4D46D58</string>
+</dict>
+</plist>

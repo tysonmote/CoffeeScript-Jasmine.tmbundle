@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>_spec.coffee</string>
+	</array>
+	<key>name</key>
+	<string>CoffeeScript Jasmine</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.coffee</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bit\b</string>
+			<key>name</key>
+			<string>support.function.coffee.jasmine.spec</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bdescribe\b</string>
+			<key>name</key>
+			<string>support.function.coffee.jasmine.describe</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(before|after)Each\b</string>
+			<key>name</key>
+			<string>support.function.coffee.jasmine.hook</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bexpect\b</string>
+			<key>name</key>
+			<string>support.function.coffee.jasmine.expectation</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bto[A-Z][\w]+\b</string>
+			<key>name</key>
+			<string>support.function.coffee.jasmine.test</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bnot(?=\.)</string>
+			<key>name</key>
+			<string>support.function.coffee.jasmine.negate</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bnot(?=\.)</string>
+			<key>name</key>
+			<string>support.function.coffee.jasmine.negate</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bspyOn\b</string>
+			<key>name</key>
+			<string>support.function.coffee.jasmine.spy</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\band(CallThrough|Return|Throw|CallFake)\b</string>
+			<key>name</key>
+			<string>support.function.coffee.jasmine.spyResponse</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.coffee.jasmine</string>
+	<key>uuid</key>
+	<string>8D7B5616-E3BA-4043-AD18-143800DD0A2C</string>
+</dict>
+</plist>
