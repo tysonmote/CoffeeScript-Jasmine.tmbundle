@@ -11,10 +11,6 @@
 	<key>patterns</key>
 	<array>
 		<dict>
-			<key>include</key>
-			<string>source.coffee</string>
-		</dict>
-		<dict>
 			<key>match</key>
 			<string>\bit\b</string>
 			<key>name</key>
@@ -67,6 +63,10 @@
 			<string>\band(CallThrough|Return|Throw|CallFake)\b</string>
 			<key>name</key>
 			<string>support.function.coffee.jasmine.spyResponse</string>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>source.coffee</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
